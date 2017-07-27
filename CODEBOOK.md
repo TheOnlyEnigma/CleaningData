@@ -120,7 +120,7 @@ add manual data to the data set.
 List of all variables within the data, along with a description of their purpose and what they hold
 
 * <mark>xTrain, yTrain<</mark> and <mark>subjectTrain</mark> : Contains the training data from the downloaded files 
-* <mark>xTest, yTest</mark> and <mark>subjectTest</mark> : Contaisn the training data from the downloaded files 
+* <mark>xTest, yTest</mark> and <mark>subjectTest</mark> : Contains the training data from the downloaded files 
 * <mark>trainingData</mark> : Contains xTrain, yTrain and subjectTrain 
 * <mark>testData</mark> : Contains xTest, yTest and subjectTest 
 * <mark>features</mark> : Contains the downloaded features text file 
@@ -128,5 +128,5 @@ List of all variables within the data, along with a description of their purpose
 * <mark>featuresName</mark> : Contains a numeric vector that is used within the code to extract the desired data set 
 * <mark>featuresNamed</mark> : Contains the same data as featuresName but with more 'human readable' labels 
 * <mark>finalData</mark> : Contains the trainingData, and testData
-* <mark>meltedData</mark> : Contains the final data with the melted function applied
+* <mark>meltedData</mark> : Contains the final data with the melt function applied
 * <mark>meanData</mark> : Contains the final data with the mean function applied
