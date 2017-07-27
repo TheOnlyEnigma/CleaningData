@@ -6,7 +6,7 @@
 **Author**: TheOnlyEnigma  
 **Project**: Getting and Cleaning Data Course Assignment  
 **Institution**: John Hopkins University  
-Data: [Human Activity Recognition Using Smartphones] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+**Data**: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ------------------------------------------------------------------
 
